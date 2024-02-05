@@ -1,6 +1,5 @@
 # Global AI Bootcamp 2024
 
-## Meetup description
 Join us for an inspiring annual event that occurs worldwide, where developers and AI enthusiasts can learn about AI through workshops, sessions, and discussions.
 
 ### Workshop - Explore the OpenAI GPT Models
