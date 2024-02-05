@@ -1,22 +1,19 @@
-# {Event name}
+# Global AI Bootcamp 2024
 
 ## Meetup description
-This meetup is all about {meetup topic description}.
+Join us for an inspiring annual event that occurs worldwide, where developers and AI enthusiasts can learn about AI through workshops, sessions, and discussions.
 
-### Talk 1 - {Name of the talk}
+### Workshop - Explore the OpenAI GPT Models
+This workshop offers a practical and immersive learning experience in Prompt Engineering. Discover the power of techniques like zero-shot learning and chain of thought. Explore the creative potential of DALL-E for image generation. Learn how to effectively use function calling to unlock the full capabilities of prompt engineering.
 
-{Talk description}
+[Go to the workshop](https://workshop.globalai.community/)
 
-The presentation can be find [here](link). {The repo with code [here](link).}
+## Requirements
 
-### Talk 2 - {Name of the talk}
-
-{Talk description}
-
-The presentation can be find [here](link). {The repo with code [here](link).}
+## Usage
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://www.youtube.com/live/USgN3_9xMss)
 
 ## Credits
-This event was set up by @pyladiesams, {Github handlers}
+This event was set up by @pyladiesams, Global AI Community
