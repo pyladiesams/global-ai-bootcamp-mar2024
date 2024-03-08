@@ -3,7 +3,13 @@
 Join us for an inspiring annual event that occurs worldwide, where developers and AI enthusiasts can learn about AI through workshops, sessions, and discussions.
 
 ### Workshop - Explore the OpenAI GPT Models
-This workshop offers a practical and immersive learning experience in Prompt Engineering. Discover the power of techniques like zero-shot learning and chain of thought. Explore the creative potential of DALL-E for image generation. Learn how to effectively use function calling to unlock the full capabilities of prompt engineering.
+This is a 75-minute workshop that will give you a hands-on introduction to the core concepts and best practices for interacting with OpenAI models.
+
+By the end of this workshop, you should be able to:
+
+* Describe GPT model capabilities and implementation
+* Understand prompt engineering concepts and best practices
+* Apply prompt engineering techniques to your generative AI solutions
 
 [Go to the workshop](https://workshop.globalai.community/)
 
