@@ -2,7 +2,7 @@
 
 Join us for an inspiring annual event that occurs worldwide, where developers and AI enthusiasts can learn about AI through workshops, sessions, and discussions.
 
-### Workshop - Explore the OpenAI GPT Models
+### Workshop - Learn how to interact with OpenAI models
 This is a 75-minute workshop that will give you a hands-on introduction to the core concepts and best practices for interacting with OpenAI models.
 
 By the end of this workshop, you should be able to:
