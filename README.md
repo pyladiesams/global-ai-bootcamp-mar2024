@@ -16,6 +16,8 @@ By the end of this workshop, you should be able to:
 
 [Go to the workshop](https://workshop.globalai.community/)
 
+Workshop presentation [Learn how to use OpenAI models using prompt engineering](global-ai-workshop-pyladies-amsterdam.pdf)
+
 ## Usage
 The workshop instructor will provide you with an event key that you will use during the Setup phase of the workshop, to gain access to an Azure OpenAI custom playground application without requiring you to have an Azure subscription of your own. The event key will be valid only during the workshop and will require you to complete the workshop within the timeframe for that event.
 
